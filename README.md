@@ -155,7 +155,6 @@ DNS Bruteforce Command - used to bruteforce dns record
 ```bash
    nmap --script dns-brute google.com
 ```
-Note - From now onwards, i will be using scanme.nmap.org instead of google.com .
 
 OS Identification Command - To find the details of OS
 ```bash
