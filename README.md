@@ -161,4 +161,43 @@ OS Identification Command - To find the details of OS
    nmap -O scanme.nmap.org -v
 ```
 
+## FAQ
+
+#### What are alternatives of Nmap ?
+
+Their are a number of alternatives available on github today, but still nmap is the most popular and widely used.
+Some of the famous ones are 
+
+https://github.com/angryip/ipscan
+https://github.com/robertdavidgraham/masscan
+
+#### Is Nmap available in GUI?
+
+Zenmap is the gui version of Nmap. Windows users can install that for the ease of use.
+
+https://nmap.org/zenmap/
+
+
+# Hi, I'm Dheeraj Yadav! 👋
+
+
+## 🚀 About Me
+I'm a 19y/o self-learned ethical hacker, mainly interested in bug hunting, malware analysis, and digital forensics. Currently expertise in SEO, OSINT, ethical hacking, WordPress, Shopify, front-end web.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheerajydv19)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dheerajydv19)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at any of the social media platform mentioned here.
+
+ https://linktr.ee/dheerajydv19
+
+
+## Support
+
+For support, please star this repo and share it with others.
+
 
